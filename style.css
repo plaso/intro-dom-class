@@ -1,0 +1,16 @@
+.playing {
+  color: tomato;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: aqua;
+}
+
+.favorite {
+  color: cadetblue
+}
+
+.song {
+  cursor: pointer;
+}
